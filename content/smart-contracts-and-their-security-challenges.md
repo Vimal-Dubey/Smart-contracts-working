@@ -13,7 +13,7 @@ In this article, we?ll look at -
 4. Security challenges in smart contracts
 
 
-1. **Introduction to smart contracts**
+- 1. **Introduction to smart contracts**
 
 	In 2013, ethereum introduced a core innovation by enabling developers to create small pieces of code, referred to as smart contracts, that could be deployed to ethereum network to run independently of their creators.
 
